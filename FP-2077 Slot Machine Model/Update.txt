@@ -1,0 +1,27 @@
+Updates:
+
+* The Wheels now spin is the described direction. 
+  Previously they were spinning the reverse direction.
+
+
+
+* WinSettingsImpl in WinningSettings.jar updated:
+	
+	- added public String VERSION to the class - if it exists you know you're
+	  using the updated class.  
+
+	- provides feedback via Console Logger if available (otherwise System.err)
+	
+	- using getWinOdds() now tests BOTH SlotLine equals methods
+	  Previously it just used one of them
+	  
+	- using getWinOdds() also provided feedback for certain errors
+	  
+	- using getWinSimplified() now displays slots passed as parameters as well
+	  as extra feedback, especially when things go wrong
+
+
+	  
+* Corrected "typos" / missing info as discussed on Discussion Forum
+
+	- SlotLine/SlotLineImpl class header and SlotLine toString.

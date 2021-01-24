@@ -1,0 +1,349 @@
+[INFO] slotmachine.view.ConsoleLoggerCallback registerPlayer
+Added player Player 12345A, Wally, credits 80, bet 0, available 80
+
+[INFO] slotmachine.view.ConsoleLoggerCallback addCredits
+10 credits added to player 12345A
+Player 12345A, Wally, credits 90, bet 0, available 90
+
+[INFO] slotmachine.view.ConsoleLoggerCallback betUpdated
+Bet updated for 12345A to 5 for Line #1
+Player 12345A, Wally, credits 90, bet 5, available 85
+
+[INFO] slotmachine.view.ConsoleLoggerCallback betUpdated
+Bet updated for 12345A to 10 for Line #2
+Player 12345A, Wally, credits 90, bet 15, available 75
+
+[INFO] slotmachine.view.ConsoleLoggerCallback betUpdated
+Bet updated for 12345A to 15 for Line #4, Line #5
+Player 12345A, Wally, credits 90, bet 45, available 45
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #001 Wheel #1: 1          / 1          / Melon     
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #001 Wheel #2: 5          / 3          / 5         
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #001 Wheel #3: 1          / 5          / 1         
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #002 Wheel #1: 5          / 1          / 1         
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #002 Wheel #2: 3          / 5          / 3         
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #002 Wheel #3: 3          / 1          / 5         
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #003 Wheel #1: Lime       / 5          / 1         
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #003 Wheel #2: 1          / 3          / 5         
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #003 Wheel #3: Lime       / 3          / 1         
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #004 Wheel #1: 5          / Lime       / 5         
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #004 Wheel #2: 3          / 1          / 3         
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #005 Wheel #1: 3          / 5          / Lime      
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #005 Wheel #2: Lime       / 3          / 1         
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #006 Wheel #1: 5          / 3          / 5         
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #006 Wheel #2: Lime       / Lime       / 3         
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #007 Wheel #1: 7          / 5          / 3         
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #008 Wheel #1: Lemon      / 7          / 5         
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #009 Wheel #1: 1          / Lemon      / 7         
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #010 Wheel #1: 3          / 1          / Lemon     
+
+[INFO] slotmachine.view.ConsoleLoggerCallback spinComplete
+Line #2 | 3          | Lime       | Lime       |
+Line #1 | 1          | Lime       | 3          |
+Line #3 | Lemon      | 3          | 1          |
+
+[FINE] slotmachine.view.ConsoleLoggerCallback lineResult
+Line #1 | 1          | Lime       | 3          | Loss      
+
+[FINE] slotmachine.view.ConsoleLoggerCallback lineResult
+Line #2 | 3          | Lime       | Lime       | Loss      
+
+[FINE] slotmachine.view.ConsoleLoggerCallback lineResult
+Line #3 | Lemon      | 3          | 1          | No Bet    
+
+[FINE] slotmachine.view.ConsoleLoggerCallback lineResult
+Line #4 | 3          | Lime       | 1          | Loss      
+
+[FINE] slotmachine.view.ConsoleLoggerCallback lineResult
+Line #5 | Lemon      | Lime       | Lime       | Loss      
+
+[INFO] slotmachine.view.ConsoleLoggerCallback betUpdated
+Bet updated for 12345A to 0 for Line #1, Line #2, Line #3, Line #4, Line #5
+Player 12345A, Wally, credits 45, bet 0, available 45
+
+[INFO] slotmachine.view.ConsoleLoggerCallback betTotals
+Player 12345A did not win
+Player 12345A, Wally, credits 45, bet 0, available 45
+
+[INFO] slotmachine.view.ConsoleLoggerCallback betUpdated
+Bet updated for 12345A to 0 for Line #1, Line #2, Line #3, Line #4, Line #5
+Player 12345A, Wally, credits 45, bet 0, available 45
+
+[INFO] slotmachine.view.ConsoleLoggerCallback betUpdated
+Bet updated for 12345A to 20 for Line #1
+Player 12345A, Wally, credits 45, bet 20, available 25
+
+[INFO] slotmachine.view.ConsoleLoggerCallback betUpdated
+Bet updated for 12345A to 10 for Line #2, Line #3
+Player 12345A, Wally, credits 45, bet 40, available 5
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #001 Wheel #1: Cherry     / 3          / 1         
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #001 Wheel #2: 1          / Lime       / Lime      
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #001 Wheel #3: Berry      / Lime       / 3         
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #002 Wheel #1: 3          / Cherry     / 3         
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #002 Wheel #2: Gold Bar   / 1          / Lime      
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #002 Wheel #3: Melon      / Berry      / Lime      
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #003 Wheel #1: 7          / 3          / Cherry    
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #003 Wheel #2: Cherry     / Gold Bar   / 1         
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #003 Wheel #3: Lemon      / Melon      / Berry     
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #004 Wheel #1: 3          / 7          / 3         
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #004 Wheel #2: 7          / Cherry     / Gold Bar  
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #005 Wheel #1: 3          / 3          / 7         
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #005 Wheel #2: 1          / 7          / Cherry    
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #006 Wheel #1: 1          / 3          / 3         
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #006 Wheel #2: 3          / 1          / 7         
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #007 Wheel #1: 5          / 1          / 3         
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #008 Wheel #1: 1          / 5          / 1         
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #009 Wheel #1: 1          / 1          / 5         
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #010 Wheel #1: 1          / 1          / 1         
+
+[INFO] slotmachine.view.ConsoleLoggerCallback spinComplete
+Line #2 | 1          | 3          | Lemon      |
+Line #1 | 1          | 1          | Melon      |
+Line #3 | 1          | 7          | Berry      |
+
+[FINE] slotmachine.view.ConsoleLoggerCallback lineResult
+Line #1 | 1          | 1          | Melon      | Win  20   
+
+[FINE] slotmachine.view.ConsoleLoggerCallback lineResult
+Line #2 | 1          | 3          | Lemon      | Loss      
+
+[FINE] slotmachine.view.ConsoleLoggerCallback lineResult
+Line #3 | 1          | 7          | Berry      | Loss      
+
+[FINE] slotmachine.view.ConsoleLoggerCallback lineResult
+Line #4 | 1          | 1          | Berry      | No Bet    
+
+[FINE] slotmachine.view.ConsoleLoggerCallback lineResult
+Line #5 | 1          | 1          | Lemon      | No Bet    
+
+[INFO] slotmachine.view.ConsoleLoggerCallback betTotals
+Player 12345A won 20 credits
+Player 12345A, Wally, credits 65, bet 40, available 25
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #001 Wheel #1: 7          / 1          / 1         
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #001 Wheel #2: 1          / 3          / 1         
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #001 Wheel #3: Lemon      / Lemon      / Melon     
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #002 Wheel #1: 7          / 7          / 1         
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #002 Wheel #2: Berry      / 1          / 3         
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #002 Wheel #3: 1          / Lemon      / Lemon     
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #003 Wheel #1: Lime       / 7          / 7         
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #003 Wheel #2: 7          / Berry      / 1         
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #003 Wheel #3: Melon      / 1          / Lemon     
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #004 Wheel #1: 1          / Lime       / 7         
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #004 Wheel #2: Berry      / 7          / Berry     
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #004 Wheel #3: 1          / Melon      / 1         
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #005 Wheel #1: Lime       / 1          / Lime      
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #005 Wheel #2: 7          / Berry      / 7         
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #005 Wheel #3: 7          / 1          / Melon     
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #006 Wheel #1: Berry      / Lime       / 1         
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #006 Wheel #2: Cherry     / 7          / Berry     
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #006 Wheel #3: 7          / 7          / 1         
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #007 Wheel #1: Lemon      / Berry      / Lime      
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #007 Wheel #2: Melon      / Cherry     / 7         
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #008 Wheel #1: Berry      / Lemon      / Berry     
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #008 Wheel #2: 5          / Melon      / Cherry    
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #009 Wheel #1: 7          / Berry      / Lemon     
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #009 Wheel #2: Berry      / 5          / Melon     
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #010 Wheel #1: Gold Bar   / 7          / Berry     
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #010 Wheel #2: 1          / Berry      / 5         
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #011 Wheel #1: 1          / Gold Bar   / 7         
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #011 Wheel #2: Melon      / 1          / Berry     
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #012 Wheel #1: Lime       / 1          / Gold Bar  
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #012 Wheel #2: Silver Bar / Melon      / 1         
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #013 Wheel #1: Lemon      / Lime       / 1         
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #013 Wheel #2: 1          / Silver Bar / Melon     
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #014 Wheel #1: 1          / Lemon      / Lime      
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #015 Wheel #1: 1          / 1          / Lemon     
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #016 Wheel #1: 1          / 1          / 1         
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #017 Wheel #1: 1          / 1          / 1         
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #018 Wheel #1: Berry      / 1          / 1         
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #019 Wheel #1: 3          / Berry      / 1         
+
+[FINE] slotmachine.view.ConsoleLoggerCallback turnWheel
+Turn #020 Wheel #1: Lime       / 3          / Berry     
+
+[INFO] slotmachine.view.ConsoleLoggerCallback spinComplete
+Line #2 | Lime       | 1          | 7          |
+Line #1 | 3          | Silver Bar | 7          |
+Line #3 | Berry      | Melon      | 1          |
+
+[FINE] slotmachine.view.ConsoleLoggerCallback lineResult
+Line #1 | 3          | Silver Bar | 7          | Win  60   
+
+[FINE] slotmachine.view.ConsoleLoggerCallback lineResult
+Line #2 | Lime       | 1          | 7          | Loss      
+
+[FINE] slotmachine.view.ConsoleLoggerCallback lineResult
+Line #3 | Berry      | Melon      | 1          | Loss      
+
+[FINE] slotmachine.view.ConsoleLoggerCallback lineResult
+Line #4 | Lime       | Silver Bar | 1          | No Bet    
+
+[FINE] slotmachine.view.ConsoleLoggerCallback lineResult
+Line #5 | Berry      | Silver Bar | 7          | No Bet    
+
+[INFO] slotmachine.view.ConsoleLoggerCallback betTotals
+Player 12345A won 60 credits
+Player 12345A, Wally, credits 125, bet 40, available 85
+
+[INFO] slotmachine.view.ConsoleLoggerCallback betUpdated
+Bet updated for 12345A to 0 for Line #1, Line #2, Line #3, Line #4, Line #5
+Player 12345A, Wally, credits 125, bet 0, available 125
+
+[INFO] slotmachine.view.ConsoleLoggerCallback cashOutPlayer
+Cash out player 12345A
+Player 12345A, Wally, credits 125, bet 0, available 125
+
+[INFO] slotmachine.client.SlotMachineTest main
+Exception thrown (as expected) by Slot Machine: Player id "invalid" is invalid
+
